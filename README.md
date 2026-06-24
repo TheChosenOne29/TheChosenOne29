@@ -30,7 +30,7 @@ Astro · Python · Laravel · Swift · Tailwind
 ---
 
 **Find me**
-[gilbertwuaten.dev](https://gilbertwuaten.dev) · [gilbertwuaten@gmail.com](mailto:gilbertwuaten@gmail.com) · [LinkedIn](https://linkedin.com/in/your-profile)
+[Personal web](https://gilbertwuaten.dev) · [Email](mailto:gilbertwuaten@gmail.com) · [LinkedIn](https://linkedin.com/in/wuatengilbert29/)
 
 ---
 

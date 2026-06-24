@@ -15,14 +15,14 @@ Astro · Python · Laravel · Swift · Tailwind
 
 ---
 
-**Recent things I built:**
+**Recent things I built**
 - My own corner of the web (Astro - *coz I like it fast*)
 - Platform for 1,000+ aviation students (Laravel - *attendance, feedback, etc*)
 - Volunteer management + genetic algorithm (Laravel - *spreadsheets are for amateurs*)
 
 ---
 
-**When I'm not coding:**
+**When I'm not coding**
 - Homelab tinkering (Minecraft servers)
 - Gaming (currently getting wrecked in Hades)
 - Photography
@@ -30,6 +30,7 @@ Astro · Python · Laravel · Swift · Tailwind
 ---
 
 **Find me**
+
 [Personal web](https://gilbertwuaten.dev) · [Email](mailto:gilbertwuaten@gmail.com) · [LinkedIn](https://linkedin.com/in/wuatengilbert29/)
 
 ---

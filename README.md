@@ -16,14 +16,14 @@ Astro · Python · Laravel · Swift · Tailwind
 ---
 
 **Recent things I built**
-- My own corner of the web (Astro - *coz I like it fast*)
-- Platform for 1,000+ aviation students (Laravel - *attendance, feedback, etc*)
-- Volunteer management + genetic algorithm (Laravel - *spreadsheets are for amateurs*)
+- My own corner of the web (Astro) - *coz I like it fast* 💨
+- Platform for 1,000+ aviation students (Laravel) - *CMS, attendance record, administration and stuff*
+- Volunteer management + genetic algorithm (Laravel) - *"spreadsheets are for amateurs"*
 
 ---
 
 **When I'm not coding**
-- Homelab tinkering (Minecraft servers)
+- Homelab tinkering (Minecraft servers, and automation)
 - Gaming (currently getting wrecked in Hades)
 - Photography
 

@@ -23,8 +23,8 @@ Astro · Python · Laravel · Swift · Tailwind
 ---
 
 **When I'm not coding**
-- Homelab tinkering (Minecraft servers, and automation)
-- Gaming (currently getting wrecked in Hades)
+- Homelab tinkering
+- Video games
 - Photography
 
 ---

@@ -8,10 +8,10 @@ Building stuff, breaking stuff, fixing stuff. One line at a time.
 
 **Currently :** Full Stack Dev - Laravel on the back, React & Blade on the front
 
-**Learning :** React deep-dive with TypeScript so `any` doesn't ruin my life
+**Learning :** Self-hosting everything — Proxmox containers, a DNS my ISP can't touch, and a local AI to-do list that nags me about PRs
 
 **Tech I actually enjoy :**
-Astro · Python · Laravel · Swift · Tailwind
+Astro · Python · Laravel · Tailwind
 
 ---
 
